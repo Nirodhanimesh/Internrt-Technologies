@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   background-color: black;
+}
+
+nav img {
+    width: 200px;
+    height: 90px;
+    
+    
+    
+    
+}
+nav ul li a{
+    
+    text-decoration: none;
+    color: white;
+    
+    
+    
+    
+}
+
+nav ul{
+    float: right;
+    margin-top:  23px;
+    margin-right: 20px;
+    
+
+}
+
+nav ul li{
+    margin-left: 15px;
+    display: inline;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+    border-radius: 4px;
+   
+
+}
+
+section img {
+    width: 900px;
+    position: absolute;
+    bottom: 0px;
+}
+
+section h1{
+    color: silver;
+    position: relative;
+    left:800px;
+    top: 150px;
+    font-size: 50px;
+    font-family: sans-serif;
+    overflow: hidden;
+    width: 300px;
+}
+section h3{
+    color: silver;
+    position: relative;
+    left: 800px;
+    top: 170px;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+section a button {
+    position: relative;
+    left: 800px;
+    top: 200px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(9, 39, 129);
+    color: silver;
+    border-radius: 5px;
+}
+
+section a button:hover{
+    cursor: pointer;
+    background-color: springgreen;
+}
