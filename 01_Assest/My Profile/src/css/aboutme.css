@@ -75,14 +75,14 @@ body{
       width: 100px;
       height: 100px;
       position: relative;
-      border-radius: 50%;
+      border-radius: 100%;
 
   }
 
   section .smedia .fb{
 
       position: absolute;
-      right: 50px;
+      right: 30px;
 
 
   }
