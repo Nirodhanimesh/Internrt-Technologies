@@ -72,17 +72,31 @@ body{
   }
 
   section .smedia img  {
-      width: 100px;
-      height: 100px;
+      width: 70px;
+      height: 70px;
       position: relative;
       border-radius: 100%;
 
   }
 
   section .smedia .fb{
-
       position: absolute;
-      right: 30px;
+     top: 200px;
+      left: 200px;
 
 
   }
+section .smedia .wtsapp{
+    position: absolute;
+    top: 320px;
+    left: 200px;
+
+
+}
+section .smedia .mail{
+    position: absolute;
+    top: 420px;
+    left: 200px;
+
+
+}

@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+nav img {
+    width: 200px;
+    height: 90px;
+
+
+
+
+}
+nav ul li a{
+
+    text-decoration: none;
+    color: white;
+
+
+
+
+}
+
+nav ul{
+    float: right;
+    margin-top:  23px;
+    margin-right: 20px;
+
+
+}
+
+nav ul li{
+    margin-left: 15px;
+    display: inline;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+    border-radius: 4px;
+
+
+}
+
+section div {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border:1px solid white;
+    background-color: red;
+    margin-left: 25px;
+    margin-top: 100px;
+    border-radius: 10px;
+    color: antiquewhite;
+    position: relative;
+}
+
+section div h1 {
+    padding-top: 10px;
+    padding-left: 100px;
+}
+section div h2 {
+    padding-top: 100px;
+    padding-left: 100px;
+    position: absolute;
+    margin: auto;
+    left: 20px;
+    bottom: 0px;
+    top: 40px;
+    right: 0px;
+}
+
+section div .csspre {
+    width: 200px;
+    height: 200px;
+    border: 6px solid yellow;
+    border-radius: 100%;
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    border-top-color: blueviolet;
+    border-right-color:blueviolet ;
+    border-bottom-color:blueviolet
+}
+section div .htmlpre {
+    width: 200px;
+    height: 200px;
+    border: 6px solid yellow;
+    border-radius: 100%;
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    border-top-color: blueviolet;
+    border-right-color:blueviolet ;
+    border-bottom-color:blueviolet
+}
+section div .jspre {
+    width: 200px;
+    height: 200px;
+    border: 6px solid yellow;
+    border-radius: 100%;
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    border-top-color: blueviolet;
+    border-right-color:blueviolet ;
+}
+section div .javapre {
+    width: 200px;
+    height: 200px;
+    border: 6px solid yellow;
+    border-radius: 100%;
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    border-top-color: blueviolet;
+    border-right-color:blueviolet ;
+
+}
